@@ -83,11 +83,15 @@ body {
     }
 
     .prod-title {
-        margin-left: 2em;
+        margin-left: 1.8em;
     }
 
     .send-btn {
         margin-left: 2.8em;
         width: 65%;
+    }
+
+    .child-container {
+        width: 22.5em;
     }
 }
